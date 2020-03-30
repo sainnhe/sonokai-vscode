@@ -1,0 +1,40 @@
+{
+    "name": "sonokai",
+    "displayName": "Sonokai",
+    "description": "High Contrast & Vivid Color Scheme based on Monokai Pro",
+    "version": "0.1.0",
+    "publisher": "sainnhe",
+    "author": "sainnhe (https://github.com/sainnhe)",
+    "homepage": "https://github.com/sainnhe/sonokai-vscode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sainnhe/sonokai-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sainnhe/sonokai-vscode/issues"
+    },
+    "license": "MIT",
+    "keywords": [
+        "monokai",
+        "theme"
+    ],
+    "galleryBanner": {
+        "color": "#2a2f38",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sonokai Atlantis",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sonokai-atlantis.json"
+            }
+        ]
+    }
+}
