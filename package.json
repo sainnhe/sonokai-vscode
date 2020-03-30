@@ -31,9 +31,24 @@
     "contributes": {
         "themes": [
             {
+                "label": "Sonokai Shusia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sonokai-shusia.json"
+            },
+            {
+                "label": "Sonokai Andromeda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sonokai-andromeda.json"
+            },
+            {
                 "label": "Sonokai Atlantis",
                 "uiTheme": "vs-dark",
                 "path": "./themes/sonokai-atlantis.json"
+            },
+            {
+                "label": "Sonokai Maia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sonokai-maia.json"
             }
         ]
     }
