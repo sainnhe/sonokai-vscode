@@ -820,7 +820,7 @@
                 "scope": ["meta.attribute.rust", "variable.language.rust"],
                 "settings": {
                         "name": "rust specific (variable.language.rust is 'self' keyword.",
-                        "foreground": "#848089"
+                        "foreground": "#ef9062"
                 }
         }, {
                 "scope": "punctuation",
@@ -935,7 +935,7 @@
                 "scope": ["source.scss", "source.sass"],
                 "settings": {
                         "name": "SASS, SCSS default",
-                        "foreground": "#848089"
+                        "foreground": "#e3e1e4"
                 }
         }, {
                 "scope": ["source.sass variable.other", "source.sass variable.sass", "source.scss variable.other", "source.scss variable.scss", "source.scss variable.sass", "source.css variable.other", "source.css variable.scss", "source.less variable.other", "source.less variable.other.less", "source.less variable.declaration.less"],
@@ -1178,7 +1178,7 @@
                 "settings": {
                         "name": "Reserved variable names that are specified by the language, such as this, self, super, arguments. Also in function arguments (e.g. like in Python)",
                         "fontStyle": "italic",
-                        "foreground": "#848089"
+                        "foreground": "#ef9062"
                 }
         }, {
                 "scope": "variable.language.arguments",
