@@ -44,8 +44,6 @@ This color scheme is a port of [Sonokai](https://github.com/sainnhe/sonokai) for
 >
 > The `shusia` and `maia` variants are based on `monokai pro` and `monokai machine` respectively. I'm not going to port all variants of [Monokai Pro](https://monokai.pro/vscode) because I don't like some of them. In addition, I designed some new variants inspired by other color schemes.
 
-See also my another port: [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
-
 ## Features
 
 - High contrast but within acceptable range.
@@ -84,6 +82,8 @@ ext install sainnhe.sonokai
 ## Related Projects
 
 See [sainnhe/sonokai](https://github.com/sainnhe/sonokai#related-projects)
+
+In addition, I ported my other color scheme to vscode: [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
 
 ## Inspiration
 
