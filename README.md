@@ -81,9 +81,13 @@ ext install sainnhe.sonokai
 
 ## Related Projects
 
-See [sainnhe/sonokai](https://github.com/sainnhe/sonokai#related-projects)
+See [sainnhe/sonokai](https://github.com/sainnhe/sonokai#related-projects) for other ports.
 
-In addition, I ported my other color scheme to vscode: [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
+### More Color Schemes
+
+- [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
+- [Forest Night](https://marketplace.visualstudio.com/items?itemName=sainnhe.forest-night)
+- [Edge](https://marketplace.visualstudio.com/items?itemName=sainnhe.edge)
 
 ## Inspiration
 
