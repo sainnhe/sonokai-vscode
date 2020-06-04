@@ -81,7 +81,7 @@ ext install sainnhe.sonokai
 
 ## Related Projects
 
-See [sainnhe/sonokai](https://github.com/sainnhe/sonokai#related-projects) for other ports.
+See this [wiki page](https://github.com/sainnhe/sonokai/wiki/Related-Projects).
 
 ### More Color Schemes
 
