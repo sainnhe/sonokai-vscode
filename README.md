@@ -6,7 +6,7 @@
 𝐃𝐞𝐟𝐚𝐮𝐥𝐭
 </h2>
 
-![default](https://user-images.githubusercontent.com/37491630/87900855-0abe0180-ca45-11ea-9079-dcf5289f2cf8.png)
+![default](https://user-images.githubusercontent.com/37491630/87915825-37096a80-caa5-11ea-97be-af18b5e75b70.png)
 
 <h2 align="center">
 𝐀𝐭𝐥𝐚𝐧𝐭𝐢𝐬
