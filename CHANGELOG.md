@@ -4,6 +4,10 @@ All notable changes to the "sonokai" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.0
+
+- Add default variant.
+
 ## 0.1.6
 
 - Move related projects to github wiki.

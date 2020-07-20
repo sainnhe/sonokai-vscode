@@ -3,10 +3,16 @@
 </h1>
 
 <h2 align="center">
-𝐒𝐡𝐮𝐬𝐢𝐚
+𝐃𝐞𝐟𝐚𝐮𝐥𝐭
 </h2>
 
-![shusia](https://user-images.githubusercontent.com/37491630/77871086-96134d00-7232-11ea-8213-2b473ce22540.png)
+![default](https://user-images.githubusercontent.com/37491630/87900855-0abe0180-ca45-11ea-9079-dcf5289f2cf8.png)
+
+<h2 align="center">
+𝐀𝐭𝐥𝐚𝐧𝐭𝐢𝐬
+</h2>
+
+![atlantis](https://user-images.githubusercontent.com/37491630/77871076-91e72f80-7232-11ea-8414-0a93b4c26d97.png)
 
 <h2 align="center">
 𝐀𝐧𝐝𝐫𝐨𝐦𝐞𝐝𝐚
@@ -15,10 +21,10 @@
 ![andromeda](https://user-images.githubusercontent.com/37491630/77871073-90b60280-7232-11ea-9310-7ce4f4129671.png)
 
 <h2 align="center">
-𝐀𝐭𝐥𝐚𝐧𝐭𝐢𝐬
+𝐒𝐡𝐮𝐬𝐢𝐚
 </h2>
 
-![atlantis](https://user-images.githubusercontent.com/37491630/77871076-91e72f80-7232-11ea-8414-0a93b4c26d97.png)
+![shusia](https://user-images.githubusercontent.com/37491630/77871086-96134d00-7232-11ea-8213-2b473ce22540.png)
 
 <h2 align="center">
 𝐌𝐚𝐢𝐚
