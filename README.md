@@ -91,9 +91,9 @@ See this [wiki page](https://github.com/sainnhe/sonokai/wiki/Related-Projects).
 
 ### More Color Schemes
 
-- [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
-- [Forest Night](https://marketplace.visualstudio.com/items?itemName=sainnhe.forest-night)
-- [Edge](https://marketplace.visualstudio.com/items?itemName=sainnhe.edge)
+- [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
+- [Everforest](https://github.com/sainnhe/everforest-vscode)
+- [Edge](https://github.com/sainnhe/edge-vscode)
 
 ## Inspiration
 
