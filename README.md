@@ -32,6 +32,12 @@
 
 ![maia](https://user-images.githubusercontent.com/37491630/77871079-93185c80-7232-11ea-9390-6f4366375e97.png)
 
+<h2 align="center">
+𝐄𝐬𝐩𝐫𝐞𝐬𝐬𝐨
+</h2>
+
+![espresso](https://user-images.githubusercontent.com/37491630/120172634-d656cc80-c235-11eb-93b1-30c9995997da.png)
+
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai">Marketplace</a> |
   <a href="https://github.com/sainnhe/sonokai-vscode">Repository</a> |
@@ -44,11 +50,11 @@ This color scheme is a port of [Sonokai](https://github.com/sainnhe/sonokai) for
 
 > Sometimes I need a high contrast color scheme, and I think monokai is one of the best solutions, it's very beautiful and vivid.
 >
-> However there is one thing I can't stand -- the contrast is too high, which is totally unacceptable to me.
+> However there is one thing I can't stand -- the contrast is too high, which is totally unacceptable for me.
 >
 > This color scheme is based on [Monokai Pro](https://monokai.pro/vscode), the contrast is adjusted to be a bit lower while keeping the colors vivid enough.
 >
-> The `shusia` and `maia` variants are based on `monokai pro` and `monokai machine` respectively. I'm not going to port all variants of [Monokai Pro](https://monokai.pro/vscode) because I don't like some of them. In addition, I designed some new variants inspired by other color schemes.
+> The `shusia`, `maia` and `espresso` variants are basically modified versions of Monokai Pro. I'm not going to port all variants of Monokai Pro because I don't like some of them. In addition, I designed some new variants inspired by other color schemes.
 
 ## Features
 
@@ -98,7 +104,8 @@ See this [wiki page](https://github.com/sainnhe/sonokai/wiki/Related-Projects).
 ## Inspiration
 
 - [Monokai Pro](https://monokai.pro/vscode)
-- [Edge](https://github.com/sainnhe/edge)
+- [Atom One](https://github.com/atom/atom/tree/master/packages/one-dark-syntax)
+- [Material](https://github.com/equinusocio/material-theme)
 - [Nord](https://www.nordtheme.com)
 
 ## License
