@@ -60,6 +60,7 @@
                 "list.invalidItemForeground": "#fb617e80",
                 "list.errorForeground": "#fb617e",
                 "list.warningForeground": "#edc763",
+                "quickInputList.focusBackground": "#363a4e80",
                 "tree.indentGuidesStroke": "#7e8294",
                 "activityBar.border": "#181a1c",
                 "activityBar.background": "#181a1c",
